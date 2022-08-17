@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionStrings": {
+    "SQLite_seidowebservice": "Data Source=C:\\Users\\marti\\Development\\Databases\\SeidoWebService_SQLite.db",
+    "SQLite_seidowebservice_Mac": "Data Source=/Users/Martin/Development/Databases/SeidoWebService_SQLite.db"
+  }
+}
